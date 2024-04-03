@@ -3,7 +3,7 @@
 <h3 align="center">A Keen Developer from Mexico</h3>
 
 - 🔭 I’m currently working on **Me**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 ###
 
