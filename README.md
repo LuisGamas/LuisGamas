@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋! My name is Luis Gamas</h1>
-<h3 align="center">A Keen Developer from Mexico</h3>
+<h3 align="center">A Software Engineer from Mexico</h3>
 
-- 🔭 I’m currently working on **Me**
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on **Me and my future**.
 
 ###
 
