@@ -21,6 +21,7 @@
 ---
 
 ### 🚀 About Me
+
 I am a **Software Engineer** focused on creating exceptional digital experiences. My specialty is multiplatform development, where I combine technical power with a detailed eye for visual design.
 
 - 🧠 **Specialty:** Flutter, Dart, and Java Android.
@@ -53,21 +54,18 @@ I am a **Software Engineer** focused on creating exceptional digital experiences
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGamas&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGamas&layout=compact&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LuisGamas&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisGamas&layout=compact&theme=great-gatsby&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LuisGamas&theme=dracula&hide_border=true&locale=en" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LuisGamas/LuisGamas/output/snake.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com?user=LuisGamas&theme=great-gatsby&locale=en&date_format=j%2Fn%5B%2FY%5D" height="150" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
+
 | Project | Description | Links |
 | :--- | :--- | :--- |
 | **Wallium** | Premium wallpapers app with Isar and Firestore. | [Download](https://shr.pn/wallium) |
@@ -77,6 +75,7 @@ I am a **Software Engineer** focused on creating exceptional digital experiences
 ---
 
 ### 📫 Connect with me
+
 <p align="left">
   <a href='https://shr.pn/gamas-linkedin' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   <a href='https://shr.pn/gamas-x' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white'/></a>
