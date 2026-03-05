@@ -1,63 +1,84 @@
-<!-- ##### Header Visual ##### -->
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 15px; display: flex; align-items: center; justify-content: center; gap: 20px; border: 1px solid #C084FC;">
- 
-  <div style="color: #FFFFFF; text-align: center;">
-    <h1 style="margin: 0; font-size: 24px;">👨‍💻 Luis Gamas</h1>
-    <p style="margin: 0; color: #94A3B8; font-size: 14px;">Multiplatform Software Engineer</p>
-  </div>
-  
-</div>
-
-<p> <!-- ##### ##### ##### ##### --> </p>
-
 <p align="center">
-  <!-- ##### Enlace a mi portafolio web ##### -->
-  <a href='https://kutt.it/gamas-dev' target="_blank"><img alt='' src='https://img.shields.io/badge/visita_mi_portafolio_web-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000'/></a>
-  <!-- ##### Enlace a mi perfil de GitHub ##### -->
-  <a href='https://kutt.it/Github-Gamas' target="_blank"><img alt='' src='https://img.shields.io/badge/mi_perfil_de_github-6B7280?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/></a>
-  <!-- ##### Enlace a mi resumen profesional ##### -->
-  <a href='https://kutt.it/GamasResumeEs' target="_blank"><img alt='googledocs' src='https://img.shields.io/badge/resumen_profesional-5896DD?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=000000'/></a>
-  <!-- ##### Enlace a mi perfil de GitHub en ingles ##### -->
-  <a href='README_EN.md' target="_blank"><img alt='english' src='https://img.shields.io/badge/English_Version-FFB6C1?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=000000'/></a>
-  <!-- ##### ##### ##### ##### -->
-  <img src="https://komarev.com/ghpvc/?username=luisgamas&label=visitas%20en%20mi%20perfil&color=6B7280&style=for-the-badge" />
+  <img src="assets/banner.jpeg" width="100%" alt="Luis Gamas Banner" />
 </p>
 
-<img src="https://raw.githubusercontent.com/LuisGamas/LuisGamas/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <!-- <img src="assets/logo.png" width="180" alt="Luis Gamas Logo" /> -->
+  <h1 align="center">✨ Luis Gamas ✨</h1>
+  <p align="center">
+    <strong>Multiplatform Software Engineer | Flutter Expert | Design Enthusiast</strong>
+  </p>
+</div>
 
-## About me
-I am a Software Engineer focused on multiplatform applications. I am passionate about building modern products with Flutter, applying clean architecture, optimizing performance, and paying attention to visual details to bring ideas to life in a functional and attractive way.
+<p align="center">
+  <a href='https://shr.pn/gamas-dev' target="_blank"><img alt='Portfolio' src='https://img.shields.io/badge/Web_Portfolio-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white'/></a>
+  <a href='https://shr.pn/gamas-github' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/My_GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white'/></a>
+  <a href='https://shr.pn/gamas-res' target="_blank"><img alt='Resume' src='https://img.shields.io/badge/Resume_CV-5896DD?style=for-the-badge&logo=googledocs&logoColor=white'/></a>
+  <a href='README.md' target="_blank"><img alt='Spanish' src='https://img.shields.io/badge/Spanish_Version-FFB6C1?style=for-the-badge&logo=googletranslate&logoColor=white'/></a>
+  <img src="https://komarev.com/ghpvc/?username=luisgamas&label=VIEWS&color=C084FC&style=for-the-badge" />
+</p>
 
-- 🧠 Experience in **Flutter, Dart, Java Android, Isar, Firebase, Riverpod, GoRouter and more**
-- 🛠️ Best practices: **SOLID, TDD, Clean Architecture**
-- 🌍 Work on published projects and SaaS solutions
-- 🚀 Focus on functional, clear, and well-structured design
-- 💡 Always learning and sharing knowledge
+---
 
-## Tech stack
-[![Tech stack](https://skillicons.dev/icons?i=flutter,dart,java,vscode,androidstudio,idea,firebase,git,github,figma,linux&theme=dark)](https://kutt.it/gamas-dev)
+### 🚀 About Me
+I am a **Software Engineer** focused on creating exceptional digital experiences. My specialty is multiplatform development, where I combine technical power with a detailed eye for visual design.
 
-## GitHub stats
-![My stats](https://github-readme-stats.vercel.app/api?username=LuisGamas&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGamas&layout=compact&theme=github_dark&hide_border=true)
-![Contribution streak](https://streak-stats.demolab.com/?user=LuisGamas&theme=github-dark&hide_border=true&locale=en)
-![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisGamas&theme=github_dark)
+- 🧠 **Specialty:** Flutter, Dart, and Java Android.
+- 🛠️ **Architecture:** SOLID, Clean Architecture, and TDD.
+- 🌍 **Experience:** Development of SaaS solutions and published applications.
+- 💡 **Philosophy:** "Clean code doesn't just work, it also feels good to use."
 
-## Featured projects
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisGamas&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGamas&layout=compact&theme=dracula&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=LuisGamas&theme=dracula&hide_border=true&locale=en" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuisGamas/LuisGamas/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🌟 Featured Projects
 | Project | Description | Links |
-| --- | --- | --- |
-| Wallium | Premium wallpapers app with local Isar, remote Firestore, and integrated ads. | [Download app](https://kutt.it/WalliumAndroid) |
-| Mikrowisp Client | SaaS platform for ISPs with payment and report management 24/7 via OpenPay. | [Demo app](https://kutt.it/MikrowispDemoApp) |
-| Kreator Frame | Open source platform for sharing KWGT/KLWP widgets with clean architecture. | [View project](https://kutt.it/KreatorFrameWeb) |
+| :--- | :--- | :--- |
+| **Wallium** | Premium wallpapers app with Isar and Firestore. | [Download](https://shr.pn/wallium) |
+| **Mikrowisp Client** | ISP payment management via OpenPay. | [Demo](https://shr.pn/mikrowisp-demo) |
+| **Kreator Frame** | Open source community for KWGT/KLWP widgets. | [View project](https://shr.pn/kreator-website) |
 
-## Connect with me
-<!-- ##### Enlace a mi portafolio web ##### -->
-  <a href='https://kutt.it/gamas-dev' target="_blank"><img alt='portafolio' src='https://img.shields.io/badge/Portafolio_Web-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000'/></a>
-  <!-- ##### Enlace a mi perfil de GitHub ##### -->
-  <a href='https://kutt.it/Github-Gamas' target="_blank"><img alt='github' src='https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/></a>
-  <!-- ##### Enlace a mi perfil de LinkedIn ##### -->
-  <a href='https://kutt.it/LinkedinGamas' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000'/></a>
-  <!-- ##### Enlace a mi perfil de Twitter ##### -->
-  <a href='https://kutt.it/TwitterGamas' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000'/></a>
-  <!-- ##### Enlace a mi perfil de Instagram ##### -->
-  <a href='https://kutt.it/InstagramGamas' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000'/></a>
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href='https://shr.pn/gamas-linkedin' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+  <a href='https://shr.pn/gamas-x' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white'/></a>
+  <a href='https://shr.pn/gamas-instagram' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
+</p>
