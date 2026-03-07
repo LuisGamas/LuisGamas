@@ -11,9 +11,9 @@
 </div>
 
 <p align="center">
-  <a href='https://shr.pn/gamas-dev' target="_blank"><img alt='Portfolio' src='https://img.shields.io/badge/Portafolio_Web-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white'/></a>
-  <a href='https://shr.pn/gamas-github' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Mi_GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white'/></a>
-  <a href='https://shr.pn/gamas-res' target="_blank"><img alt='Resume' src='https://img.shields.io/badge/Resumen_CV-5896DD?style=for-the-badge&logo=googledocs&logoColor=white'/></a>
+  <a href='https://sink.gamas.workers.dev/gamas-website' target="_blank"><img alt='Portfolio' src='https://img.shields.io/badge/Portafolio_Web-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white'/></a>
+  <a href='https://sink.gamas.workers.dev/gamas-github' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Mi_GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white'/></a>
+  <a href='https://sink.gamas.workers.dev/gamas-resume-es' target="_blank"><img alt='Resume' src='https://img.shields.io/badge/Resumen_CV-5896DD?style=for-the-badge&logo=googledocs&logoColor=white'/></a>
   <a href='README_EN.md' target="_blank"><img alt='English' src='https://img.shields.io/badge/English_Version-FFB6C1?style=for-the-badge&logo=googletranslate&logoColor=white'/></a>
   <img src="https://komarev.com/ghpvc/?username=luisgamas&label=VISITAS&color=C084FC&style=for-the-badge" />
 </p>
@@ -67,16 +67,16 @@ Soy un **Ingeniero de Software** enfocado en crear experiencias digitales excepc
 
 | Proyecto | Descripción | Enlaces |
 | :--- | :--- | :--- |
-| **Wallium** | App de wallpapers premium con Isar y Firestore. | [Descargar](https://shr.pn/wallium) |
-| **Mikrowisp Cliente** | Gestión de pagos ISP mediante OpenPay. | [Demo](https://shr.pn/mikrowisp-demo) |
-| **Kreator Frame** | Comunidad open source de widgets KWGT/KLWP. | [Ver proyecto](https://shr.pn/kreator-website) |
+| **Wallium** | App de wallpapers premium con Isar y Firestore. | [Descargar](https://sink.gamas.workers.dev/wallium) |
+| **Mikrowisp Cliente** | Gestión de pagos ISP mediante OpenPay. | [Demo](https://sink.gamas.workers.dev/mikrowisp-demo) |
+| **Kreator Frame** | Comunidad open source de widgets KWGT/KLWP. | [Ver proyecto](https://sink.gamas.workers.dev/kreator-frame-web) |
 
 ---
 
 ### 📫 Conéctate conmigo
 
 <p align="left">
-  <a href='https://shr.pn/gamas-linkedin' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-  <a href='https://shr.pn/gamas-x' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white'/></a>
-  <a href='https://shr.pn/gamas-instagram' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
+  <a href='https://sink.gamas.workers.dev/gamas-linkedin' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+  <a href='https://sink.gamas.workers.dev/gamas-x' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white'/></a>
+  <a href='https://sink.gamas.workers.dev/gamas-instagram' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
 </p>
