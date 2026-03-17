@@ -54,8 +54,8 @@ Soy un **Ingeniero de Software** enfocado en crear experiencias digitales excepc
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=LuisGamas&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisGamas&layout=compact&theme=great-gatsby&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LuisGamas&show_icons=true&theme=great-gatsby&locale=es&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisGamas&layout=compact&theme=great-gatsby&locale=es&hide_border=true" height="150" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LuisGamas&theme=great-gatsby&locale=es&date_format=j%2Fn%5B%2FY%5D" height="150" />
