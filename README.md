@@ -95,10 +95,11 @@ Soy un **Ingeniero de Software** especializado en desarrollo multiplataforma con
 
 | Proyecto | Descripción | Tecnologías | Enlaces |
 | :--- | :--- | :--- | :--- |
-| **Wallium** | App de wallpapers premium con modelo freemium, multi-idioma, compatible con smartphones, tablets y pantallas grandes. | Flutter, Dart, Firebase, Isar, Riverpod, GoRouter, AdMob | [![Descargar](https://img.shields.io/badge/Descargar-02569B?style=for-the-badge&logo=googleplay&logoColor=white)](https://sink.gamas.workers.dev/wallium) |
-| **Mikrowisp Cliente** | SaaS para gestión de pagos y reportes de ISP mediante OpenPay. | Flutter, Dart, Supabase, PocketBase, OpenPay BBVA | [![Demo](https://img.shields.io/badge/Demo-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://sink.gamas.workers.dev/mikrowisp-demo) |
-| **Kreator Frame** | Dashboard open source para creadores de widgets KWGT/KLWP. | Flutter, Dart, Java, Isar, Firebase, Riverpod | [![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=for-the-badge&logo=github&logoColor=white)](https://sink.gamas.workers.dev/kreator-frame-web) |
-| **Simple Calendar** | Librería Android open source, fork de CosmoCalendar adaptada a Material Design 3. | Java, Android SDK, Material 3 | [![Repositorio](https://img.shields.io/badge/Repositorio-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://sink.gamas.workers.dev/simple-calendar-repo) |
+| **Uxnan** | Toolkit open source para controlar agentes de IA de tu PC desde el móvil, con cifrado de extremo a extremo y una app de escritorio ultraligera para ejecutarlos en local. | Flutter, Dart, Rust, Tauri, Svelte, Node.js, TypeScript | [Repositorio](https://sink.gamas.workers.dev/uxnan-repo) |
+| **Kreator Frame** | Dashboard open source para creadores de widgets KWGT/KLWP. | Flutter, Dart, Java, Isar, Firebase, Riverpod | [Ver proyecto](https://sink.gamas.workers.dev/kreator-frame-web) |
+| **Wallium** | App de wallpapers premium con modelo freemium, multi-idioma, compatible con smartphones, tablets y pantallas grandes. | Flutter, Dart, Firebase, Isar, Riverpod, GoRouter, AdMob | [Descargar](https://sink.gamas.workers.dev/wallium) |
+| **Mikrowisp Cliente** | SaaS para gestión de pagos y reportes de ISP mediante OpenPay. | Flutter, Dart, Supabase, PocketBase, OpenPay BBVA | [Demo](https://sink.gamas.workers.dev/mikrowisp-demo) |
+| **Simple Calendar** | Librería Android open source, fork de CosmoCalendar adaptada a Material Design 3. | Java, Android SDK, Material 3 | [Repositorio](https://sink.gamas.workers.dev/simple-calendar-repo) |
 
 ---
 

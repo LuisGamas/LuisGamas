@@ -95,10 +95,11 @@ I am a **Software Engineer** specialized in multiplatform development with **Flu
 
 | Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **Wallium** | Premium wallpapers app with freemium model, multi-language, compatible with phones, tablets, and large screens. | Flutter, Dart, Firebase, Isar, Riverpod, GoRouter, AdMob | [![Download](https://img.shields.io/badge/Download-02569B?style=for-the-badge&logo=googleplay&logoColor=white)](https://sink.gamas.workers.dev/wallium) |
-| **Mikrowisp Client** | SaaS for ISP payment and report management via OpenPay. | Flutter, Dart, Supabase, PocketBase, OpenPay BBVA | [![Demo](https://img.shields.io/badge/Demo-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://sink.gamas.workers.dev/mikrowisp-demo) |
-| **Kreator Frame** | Open source dashboard for KWGT/KLWP widget creators. | Flutter, Dart, Java, Isar, Firebase, Riverpod | [![View project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://sink.gamas.workers.dev/kreator-frame-web) |
-| **Simple Calendar** | Open source Android library, fork of CosmoCalendar adapted to Material Design 3. | Java, Android SDK, Material 3 | [![Repository](https://img.shields.io/badge/Repository-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://sink.gamas.workers.dev/simple-calendar-repo) |
+| **Uxnan** | Open source toolkit to control your PC's AI agents from your phone, with end-to-end encryption and a lightweight desktop app to run them locally. | Flutter, Dart, Rust, Tauri, Svelte, Node.js, TypeScript | [Repository](https://sink.gamas.workers.dev/uxnan-repo) |
+| **Kreator Frame** | Open source dashboard for KWGT/KLWP widget creators. | Flutter, Dart, Java, Isar, Firebase, Riverpod | [View project](https://sink.gamas.workers.dev/kreator-frame-web) |
+| **Wallium** | Premium wallpapers app with freemium model, multi-language, compatible with phones, tablets, and large screens. | Flutter, Dart, Firebase, Isar, Riverpod, GoRouter, AdMob | [Download](https://sink.gamas.workers.dev/wallium) |
+| **Mikrowisp Client** | SaaS for ISP payment and report management via OpenPay. | Flutter, Dart, Supabase, PocketBase, OpenPay BBVA | [Demo](https://sink.gamas.workers.dev/mikrowisp-demo) |
+| **Simple Calendar** | Open source Android library, fork of CosmoCalendar adapted to Material Design 3. | Java, Android SDK, Material 3 | [Repository](https://sink.gamas.workers.dev/simple-calendar-repo) |
 
 ---
 
